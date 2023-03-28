@@ -1,0 +1,17 @@
+Flask
+gunicorn
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+pandas
+scipy
+nltk
+scikit-learn
+beautifulsoup4
+jsonschema
+tmdbv3api
+lxml
+urllib3
+requests
+pickleshare
